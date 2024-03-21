@@ -9,6 +9,6 @@ Please be aware that due to the inherent nature of blockchain technology, transa
 
 Should our data collection practices change at any time in the future, we will promptly update this privacy policy to reflect those changes. We encourage our users to review our privacy policy periodically to stay informed of any updates.
 
-For any questions or concerns regarding this privacy policy, please contact us at Discord Invite Link.
+For any questions or concerns regarding this privacy policy, please contact us at [Discord Invite Link](https://discord.com/invite/JAEC8pgWFV).
 
 Pauli Group reserves the right to amend this privacy policy at any time.
